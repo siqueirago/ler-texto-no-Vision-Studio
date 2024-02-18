@@ -3,4 +3,4 @@
 ![receipt](https://github.com/siqueirago/ler-texto-no-Vision-Studio/assets/152822615/16a7b304-bc3a-4fd6-9ec8-a72dd8bac553)
 ![note](https://github.com/siqueirago/ler-texto-no-Vision-Studio/assets/152822615/10e990bc-ead5-462a-8c6f-93da6b043994)
 ![letter](https://github.com/siqueirago/ler-texto-no-Vision-Studio/assets/152822615/db828855-3957-4ad3-895c-fe8b80ad2e42)
-![receipt](https://github.com/siqueirago/ler-texto-no-Vision-Studio/assets/152822615/2f37e9a1-81b2-4949-9dd1-fb163e807ede)
+
