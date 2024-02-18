@@ -1,1 +1,5 @@
 ![Captura de tela 2024-02-17 222517](https://github.com/siqueirago/ler-texto-no-Vision-Studio/assets/152822615/33cabc34-984b-4337-ae9c-ac629b08ccfa)
+![Captura de tela 2024-02-18 084236](https://github.com/siqueirago/ler-texto-no-Vision-Studio/assets/152822615/6f5d9c3b-fbf1-4caa-83e5-102b5c9a79b2)
+![Captura de tela 2024-02-18 084339](https://github.com/siqueirago/ler-texto-no-Vision-Studio/assets/152822615/87b31b12-6f98-4977-aee6-4f7d96fb41b7)
+![Captura de tela 2024-02-18 084424](https://github.com/siqueirago/ler-texto-no-Vision-Studio/assets/152822615/873fce0c-ee1e-48dc-8727-649463135641)
+![Captura de tela 2024-02-18 084458](https://github.com/siqueirago/ler-texto-no-Vision-Studio/assets/152822615/1208f636-05ab-424e-afed-24202af5893c)
